@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="kamen nuzky papir/kamen nuzky papir.csproj" />
+  <Project Path="papoušek projekt/papoušek projekt.csproj" />
+  <Project Path="piškvorky/piškvorky.csproj" Id="dbde910e-4b1c-410d-abeb-da7a6b6fc63b" />
+</Solution>

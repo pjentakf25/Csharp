@@ -1,0 +1,14 @@
+C:\Users\pjentakf25\source\repos\C# VYS\kamen nuzky papir\obj\Debug\net10.0\kamen nuzky papir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pjentakf25\source\repos\C# VYS\kamen nuzky papir\obj\Debug\net10.0\kamen nuzky papir.AssemblyInfoInputs.cache
+C:\Users\pjentakf25\source\repos\C# VYS\kamen nuzky papir\obj\Debug\net10.0\kamen nuzky papir.AssemblyInfo.cs
+C:\Users\pjentakf25\source\repos\C# VYS\kamen nuzky papir\obj\Debug\net10.0\kamen nuzky papir.csproj.CoreCompileInputs.cache
+C:\Users\pjentakf25\source\repos\C# VYS\kamen nuzky papir\bin\Debug\net10.0\kamen nuzky papir.exe
+C:\Users\pjentakf25\source\repos\C# VYS\kamen nuzky papir\bin\Debug\net10.0\kamen nuzky papir.deps.json
+C:\Users\pjentakf25\source\repos\C# VYS\kamen nuzky papir\bin\Debug\net10.0\kamen nuzky papir.runtimeconfig.json
+C:\Users\pjentakf25\source\repos\C# VYS\kamen nuzky papir\bin\Debug\net10.0\kamen nuzky papir.dll
+C:\Users\pjentakf25\source\repos\C# VYS\kamen nuzky papir\bin\Debug\net10.0\kamen nuzky papir.pdb
+C:\Users\pjentakf25\source\repos\C# VYS\kamen nuzky papir\obj\Debug\net10.0\kamen nuzky papir.dll
+C:\Users\pjentakf25\source\repos\C# VYS\kamen nuzky papir\obj\Debug\net10.0\refint\kamen nuzky papir.dll
+C:\Users\pjentakf25\source\repos\C# VYS\kamen nuzky papir\obj\Debug\net10.0\kamen nuzky papir.pdb
+C:\Users\pjentakf25\source\repos\C# VYS\kamen nuzky papir\obj\Debug\net10.0\kamen nuzky papir.genruntimeconfig.cache
+C:\Users\pjentakf25\source\repos\C# VYS\kamen nuzky papir\obj\Debug\net10.0\ref\kamen nuzky papir.dll

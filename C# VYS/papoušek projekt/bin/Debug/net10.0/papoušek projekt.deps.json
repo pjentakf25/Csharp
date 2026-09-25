@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "papoušek projekt/1.0.0": {
+        "runtime": {
+          "papoušek projekt.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "papoušek projekt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
