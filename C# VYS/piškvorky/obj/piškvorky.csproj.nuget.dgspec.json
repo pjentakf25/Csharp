@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pjentakf25\\source\\repos\\C# VYS\\piškvorky\\piškvorky.csproj": {}
+    "G:\\škola\\VYS maxxing\\Csharp\\C# VYS\\piškvorky\\piškvorky.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pjentakf25\\source\\repos\\C# VYS\\piškvorky\\piškvorky.csproj": {
+    "G:\\škola\\VYS maxxing\\Csharp\\C# VYS\\piškvorky\\piškvorky.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pjentakf25\\source\\repos\\C# VYS\\piškvorky\\piškvorky.csproj",
+        "projectUniqueName": "G:\\škola\\VYS maxxing\\Csharp\\C# VYS\\piškvorky\\piškvorky.csproj",
         "projectName": "piškvorky",
-        "projectPath": "C:\\Users\\pjentakf25\\source\\repos\\C# VYS\\piškvorky\\piškvorky.csproj",
+        "projectPath": "G:\\škola\\VYS maxxing\\Csharp\\C# VYS\\piškvorky\\piškvorky.csproj",
         "packagesPath": "C:\\Users\\pjentakf25\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pjentakf25\\source\\repos\\C# VYS\\piškvorky\\obj\\",
+        "outputPath": "G:\\škola\\VYS maxxing\\Csharp\\C# VYS\\piškvorky\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

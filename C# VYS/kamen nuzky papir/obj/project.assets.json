@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pjentakf25\\source\\repos\\C# VYS\\kamen nuzky papir\\kamen nuzky papir.csproj",
+      "projectUniqueName": "G:\\škola\\VYS maxxing\\Csharp\\C# VYS\\kamen nuzky papir\\kamen nuzky papir.csproj",
       "projectName": "kamen nuzky papir",
-      "projectPath": "C:\\Users\\pjentakf25\\source\\repos\\C# VYS\\kamen nuzky papir\\kamen nuzky papir.csproj",
+      "projectPath": "G:\\škola\\VYS maxxing\\Csharp\\C# VYS\\kamen nuzky papir\\kamen nuzky papir.csproj",
       "packagesPath": "C:\\Users\\pjentakf25\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pjentakf25\\source\\repos\\C# VYS\\kamen nuzky papir\\obj\\",
+      "outputPath": "G:\\škola\\VYS maxxing\\Csharp\\C# VYS\\kamen nuzky papir\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

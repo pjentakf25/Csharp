@@ -12,3 +12,18 @@ C:\Users\pjentakf25\source\repos\C# VYS\kamen nuzky papir\obj\Debug\net10.0\refi
 C:\Users\pjentakf25\source\repos\C# VYS\kamen nuzky papir\obj\Debug\net10.0\kamen nuzky papir.pdb
 C:\Users\pjentakf25\source\repos\C# VYS\kamen nuzky papir\obj\Debug\net10.0\kamen nuzky papir.genruntimeconfig.cache
 C:\Users\pjentakf25\source\repos\C# VYS\kamen nuzky papir\obj\Debug\net10.0\ref\kamen nuzky papir.dll
+G:\škola\VYS maxxing\Csharp\C# VYS\kamen nuzky papir\bin\Debug\net10.0\kamen nuzky papir.exe
+G:\škola\VYS maxxing\Csharp\C# VYS\kamen nuzky papir\bin\Debug\net10.0\kamen nuzky papir.deps.json
+G:\škola\VYS maxxing\Csharp\C# VYS\kamen nuzky papir\bin\Debug\net10.0\kamen nuzky papir.runtimeconfig.json
+G:\škola\VYS maxxing\Csharp\C# VYS\kamen nuzky papir\bin\Debug\net10.0\kamen nuzky papir.dll
+G:\škola\VYS maxxing\Csharp\C# VYS\kamen nuzky papir\bin\Debug\net10.0\kamen nuzky papir.pdb
+G:\škola\VYS maxxing\Csharp\C# VYS\kamen nuzky papir\obj\Debug\net10.0\kamen nuzky papir.GeneratedMSBuildEditorConfig.editorconfig
+G:\škola\VYS maxxing\Csharp\C# VYS\kamen nuzky papir\obj\Debug\net10.0\kamen nuzky papir.AssemblyInfoInputs.cache
+G:\škola\VYS maxxing\Csharp\C# VYS\kamen nuzky papir\obj\Debug\net10.0\kamen nuzky papir.AssemblyInfo.cs
+G:\škola\VYS maxxing\Csharp\C# VYS\kamen nuzky papir\obj\Debug\net10.0\kamen nuzky papir.csproj.CoreCompileInputs.cache
+G:\škola\VYS maxxing\Csharp\C# VYS\kamen nuzky papir\obj\Debug\net10.0\kamen nuzky papir.sourcelink.json
+G:\škola\VYS maxxing\Csharp\C# VYS\kamen nuzky papir\obj\Debug\net10.0\kamen nuzky papir.dll
+G:\škola\VYS maxxing\Csharp\C# VYS\kamen nuzky papir\obj\Debug\net10.0\refint\kamen nuzky papir.dll
+G:\škola\VYS maxxing\Csharp\C# VYS\kamen nuzky papir\obj\Debug\net10.0\kamen nuzky papir.pdb
+G:\škola\VYS maxxing\Csharp\C# VYS\kamen nuzky papir\obj\Debug\net10.0\kamen nuzky papir.genruntimeconfig.cache
+G:\škola\VYS maxxing\Csharp\C# VYS\kamen nuzky papir\obj\Debug\net10.0\ref\kamen nuzky papir.dll
