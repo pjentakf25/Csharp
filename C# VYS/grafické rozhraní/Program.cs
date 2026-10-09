@@ -1,2 +1,15 @@
-﻿using var game = new grafické_rozhraní.Game1();
-game.Run();
+﻿
+using _grafické_rozhraní;
+
+
+namespace _grafické_rozhraní
+{
+    internal class program
+    {
+     static void Main(string[] args)
+        {
+            using (var game = new mojehra())
+                game.Run();
+        }
+    }
+}
