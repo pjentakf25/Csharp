@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="grafické rozhraní/grafické rozhraní.csproj" Id="b184bb74-cb6b-49a4-8aa1-7b2a36ad97ee" />
   <Project Path="kamen nuzky papir/kamen nuzky papir.csproj" />
   <Project Path="kostka/kostka.csproj" Id="8dadf828-f8a6-40ef-ae5d-81dc37ad289e" />
   <Project Path="papoušek projekt/papoušek projekt.csproj" />
